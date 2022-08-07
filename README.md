@@ -1,7 +1,6 @@
 ### Hi! My name is Ivan Carlos
 
 - 👔 IT & Cyber Security consultant
-- 🎮 Gaming Industry analyst
 - 🇧🇷 I usually post in Portuguese
 - 📧 ivan@ivancarlos.com.br
 
