@@ -3,14 +3,14 @@
 - IT & Cyber Security consultant
 - I talk about cybersec, gaming & tech
 
+Check out the [Wiki session](https://github.com/ivancarlosti/ivancarlos/wiki) for some useful articles.
+
 <div>
   <a href="https://ivancarlos.me">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivancarlosti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivancarlosti&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-Check out the [Wiki session](https://github.com/ivancarlosti/ivancarlos/wiki) for some useful articles.
-  
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
