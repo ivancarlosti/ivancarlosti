@@ -1,13 +1,12 @@
 ### Hi! My name is Ivan Carlos
 
-- 👔 IT & Cyber Security consultant
-- 🇧🇷 I usually post in Portuguese
-- 📧 ivan@ivancarlos.com.br
+- IT & Cyber Security consultant
+- I talk about cybersec, gaming & tech
 
 <div>
-  <a href="https://pad.vg/ivancarlos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivancarlos-me&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivancarlos-me&layout=compact&langs_count=16&theme=dark"/>
+  <a href="https://ivancarlos.me">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivancarlosti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivancarlosti&layout=compact&langs_count=16&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
