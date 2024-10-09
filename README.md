@@ -5,6 +5,10 @@
 
 Check out the [Wiki session](https://github.com/ivancarlosti/ivancarlos/wiki) for some useful articles.
 
+<a target="_blank" href="https://github.com/ivancarlosti/ivancarlos"><img src="https://img.shields.io/github/stars/ivancarlosti/ivancarlos?style=flat" /></a>
+<a target="_blank" href="https://github.com/ivancarlosti/ivancarlos"><img src="https://img.shields.io/github/last-commit/ivancarlosti/ivancarlos" /></a>
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/ivancarlosti?label=GitHub%20Sponsors)](https://github.com/sponsors/ivancarlosti)
+
 <div>
   <a href="https://ivancarlos.me">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivancarlosti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
