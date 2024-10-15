@@ -8,7 +8,8 @@ Check out the [Wiki session](https://github.com/ivancarlosti/ivancarlos/wiki) fo
 <a target="_blank" href="https://github.com/ivancarlosti/ivancarlos"><img src="https://img.shields.io/github/stars/ivancarlosti/ivancarlos?style=flat" /></a>
 <a target="_blank" href="https://github.com/ivancarlosti/ivancarlos"><img src="https://img.shields.io/github/last-commit/ivancarlosti/ivancarlos" /></a>
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/ivancarlosti?label=GitHub%20Sponsors)](https://github.com/sponsors/ivancarlosti)
-[![Forks](https://img.shields.io/mastodon/follow/109872560479391172?domain=https%3A%2F%2Fbolha.us&style=flat-square&label=Mastodon)](https://bolha.us/@ivancarlos)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/109872560479391172?domain=https%3A%2F%2Fbolha.us&style=flat-square&logo=mastodon&logoColor=white&label=Mastodon)](https://bolha.us/@ivancarlos)
+
 
 <div>
   <a href="https://ivancarlos.me">
