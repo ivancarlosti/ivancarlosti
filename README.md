@@ -3,35 +3,51 @@
 - IT & Cyber Security consultant
 - I talk about cybersec, gaming & tech
 
-Check out the [Wiki session](https://github.com/ivancarlosti/ivancarlos/wiki) for some useful articles.
+[![Stars](https://img.shields.io/github/stars/ivancarlosti/ivancarlosti?label=⭐%20Stars&color=gold&style=flat)](https://github.com/ivancarlosti/ivancarlosti/stargazers)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ivancarlosti/ivancarlosti?label=Last%20Commit)](https://github.com/ivancarlosti/ivancarlosti/commits)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ivancarlosti/ivancarlosti?label=Activity)](https://github.com/ivancarlosti/ivancarlosti/pulse)
+[![GitHub Issues](https://img.shields.io/github/issues/ivancarlosti/ivancarlosti?label=Issues&color=orange)](https://github.com/ivancarlosti/ivancarlosti/issues)  
+[![License](https://img.shields.io/github/license/ivancarlosti/ivancarlosti?label=License)](LICENSE)
+[![Security](https://img.shields.io/badge/Security-View%20Here-purple)](https://github.com/ivancarlosti/ivancarlosti/security)
+[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-1.4-4baaaa)](https://github.com/ivancarlosti/ivancarlosti/tree/main?tab=coc-ov-file)
 
-<a target="_blank" href="https://github.com/ivancarlosti/ivancarlosti"><img src="https://img.shields.io/github/stars/ivancarlosti/ivancarlosti?style=flat" /></a>
-<a target="_blank" href="https://github.com/ivancarlosti/ivancarlosti"><img src="https://img.shields.io/github/last-commit/ivancarlosti/ivancarlosti" /></a>
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/ivancarlosti?label=GitHub%20Sponsors)](https://github.com/sponsors/ivancarlosti)
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/109872560479391172?domain=https%3A%2F%2Fbolha.us&style=flat-square&logo=mastodon&logoColor=white&label=Mastodon)](https://bolha.us/@ivancarlos)
+I am here to share some [repositores](https://github.com/ivancarlosti?tab=repositories) created to support my work.
 
 
-<div>
-  <a href="https://ivancarlos.me">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivancarlosti&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivancarlosti&layout=compact&langs_count=16&theme=dark"/>
-</div>
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-</div>
-  
-##
-  
-<div>
-  <a href="https://instagram.com/ivancarlos" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://t.me/ivancarlos" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/ivancarlos" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ivancarlos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:ivan@ivancarlos.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://api.whatsapp.com/send?phone=5511981120666"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-</div>
+## 🧑‍💻 Consulting and technical support
+* For personal support and queries, please submit a new issue to have it addressed.
+* For commercial related questions, please contact me directly for consulting costs. 
+
+## 🩷 Project support
+| If you found this project helpful, consider |
+| :---: |
+[**buying me a coffee**][buymeacoffee], [**donate by paypal**][paypal], [**sponsor this project**][sponsor] or just [**leave a star**](../..)⭐
+|Thanks for your support, it is much appreciated!|
+
+## 🌐 Connect with me
+[![Instagram](https://img.shields.io/badge/Instagram-@ivancarlos-E4405F)](https://instagram.com/ivancarlos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@ivancarlos-0077B5)](https://www.linkedin.com/in/ivancarlos)
+[![Threads](https://img.shields.io/badge/Threads-@ivancarlos-808080)](https://threads.net/@ivancarlos)
+[![X](https://img.shields.io/badge/X-@ivancarlos-000000)](https://x.com/ivancarlos)  
+[![Discord](https://img.shields.io/badge/Discord-@ivancarlos.me-5865F2)](https://discord.com/users/ivancarlos.me)
+[![Signal](https://img.shields.io/badge/Signal-@ivancarlos.01-2592E9)](https://icc.gg/-signal)
+[![Telegram](https://img.shields.io/badge/Telegram-@ivancarlos-26A5E4)](https://t.me/ivancarlos)  
+[![Website](https://img.shields.io/badge/Website-ivancarlos.me-FF6B6B)](https://ivancarlos.me)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/ivancarlosti?label=GitHub%20Sponsors&color=ffc0cb)][sponsor]
+
+## 📃 License
+[MIT](LICENSE) © [Ivan Carlos][ivancarlos]
+
+[cc]: https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project
+[contributing]: https://docs.github.com/en/articles/setting-guidelines-for-repository-contributors
+[security]: https://docs.github.com/en/code-security/getting-started/adding-a-security-policy-to-your-repository
+[support]: https://docs.github.com/en/articles/adding-support-resources-to-your-project
+[it]: https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#configuring-the-template-chooser
+[prt]: https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository
+[funding]: https://docs.github.com/en/articles/displaying-a-sponsor-button-in-your-repository
+[ivancarlos]: https://ivancarlos.me
+[buymeacoffee]: https://www.buymeacoffee.com/ivancarlos
+[paypal]: https://icc.gg/donate
+[sponsor]: https://github.com/sponsors/ivancarlosti
