@@ -3,6 +3,7 @@
 - IT & Cyber Security consultant
 - I talk about cybersec, gaming & tech
 
+<!-- buttons -->
 [![Stars](https://img.shields.io/github/stars/ivancarlosti/ivancarlosti?label=⭐%20Stars&color=gold&style=flat)](https://github.com/ivancarlosti/ivancarlosti/stargazers)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ivancarlosti/ivancarlosti?label=Last%20Commit)](https://github.com/ivancarlosti/ivancarlosti/commits)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ivancarlosti/ivancarlosti?label=Activity)](https://github.com/ivancarlosti/ivancarlosti/pulse)
@@ -10,10 +11,11 @@
 [![License](https://img.shields.io/github/license/ivancarlosti/ivancarlosti?label=License)](LICENSE)
 [![Security](https://img.shields.io/badge/Security-View%20Here-purple)](https://github.com/ivancarlosti/ivancarlosti/security)
 [![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-1.4-4baaaa)](https://github.com/ivancarlosti/ivancarlosti/tree/main?tab=coc-ov-file)
+<!-- endbuttons -->
 
 I am here to share some [repositores](https://github.com/ivancarlosti?tab=repositories) created to support my work.
 
-
+<!-- footer -->
 ---
 
 ## 🧑‍💻 Consulting and technical support
