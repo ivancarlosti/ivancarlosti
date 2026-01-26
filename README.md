@@ -16,7 +16,7 @@
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/ivancarlosti?label=GitHub%20Sponsors&color=ffc0cb)][sponsor]
 <!-- endbuttons -->
 
-I am here to share some [repositores](https://git.icc.gg/ivancarlos?tab=repositories) created to support my work. Untortunatelly I moved them to Gitea because my GitHub profile was suspended here for some days. I got it back but my trust was broken.
+I am here to share some [repositores](https://git.icc.gg/ivancarlos?tab=repositories) created to support my work. Unfortunatelly I moved them to Gitea because my GitHub profile was suspended for some days, I got it back but my trust was broken.
 
 <!-- footer -->
 ---
