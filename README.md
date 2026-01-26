@@ -7,7 +7,7 @@
 
 <!-- endbuttons -->
 
-I am here to share some [repositores](https://git.icc.gg/ivancarlos?tab=repositories) created to support my work. Unfortunatelly I moved them to Gitea because my GitHub profile was suspended for some days, I got it back but my trust with GitHub was broken.
+I am sharing several [repositores](https://git.icc.gg/ivancarlos?tab=repositories) that support my work. I have relocated most of them to **Gitea** following a brief suspension of my GitHub account. While my profile has been restored, I no longer fully trust GitHub as a primary host.
 
 <!-- footer -->
 ---
