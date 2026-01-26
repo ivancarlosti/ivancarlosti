@@ -4,16 +4,7 @@
 - I talk about cybersec, gaming & tech
 
 <!-- buttons -->
-[![Stars](https://img.shields.io/github/stars/ivancarlosti/ivancarlosti?label=⭐%20Stars&color=gold&style=flat)](https://github.com/ivancarlosti/ivancarlosti/stargazers)
-[![Watchers](https://img.shields.io/github/watchers/ivancarlosti/ivancarlosti?label=Watchers&style=flat&color=red)](https://github.com/sponsors/ivancarlosti)
-[![Forks](https://img.shields.io/github/forks/ivancarlosti/ivancarlosti?label=Forks&style=flat&color=ff69b4)](https://github.com/sponsors/ivancarlosti)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ivancarlosti/ivancarlosti?label=Activity)](https://github.com/ivancarlosti/ivancarlosti/pulse)
-[![GitHub Issues](https://img.shields.io/github/issues/ivancarlosti/ivancarlosti?label=Issues&color=orange)](https://github.com/ivancarlosti/ivancarlosti/issues)
-[![License](https://img.shields.io/github/license/ivancarlosti/ivancarlosti?label=License)](LICENSE)  
-[![GitHub last commit](https://img.shields.io/github/last-commit/ivancarlosti/ivancarlosti?label=Last%20Commit)](https://github.com/ivancarlosti/ivancarlosti/commits)
-[![Security](https://img.shields.io/badge/Security-View%20Here-purple)](https://github.com/ivancarlosti/ivancarlosti/security)
-[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-2.1-4baaaa)](https://github.com/ivancarlosti/ivancarlosti?tab=coc-ov-file)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/ivancarlosti?label=GitHub%20Sponsors&color=ffc0cb)][sponsor]
+
 <!-- endbuttons -->
 
 I am here to share some [repositores](https://git.icc.gg/ivancarlos?tab=repositories) created to support my work. Unfortunatelly I moved them to Gitea because my GitHub profile was suspended for some days, I got it back but my trust with GitHub was broken.
@@ -25,10 +16,9 @@ I am here to share some [repositores](https://git.icc.gg/ivancarlos?tab=reposito
 * For personal support and queries, please submit a new issue to have it addressed.
 * For commercial related questions, please [**contact me**][ivancarlos] for consulting costs. 
 
-## 🩷 Project support
-| If you found this project helpful, consider |
+| 🩷 Project support |
 | :---: |
-[**buying me a coffee**][buymeacoffee], [**donate by paypal**][paypal], [**sponsor this project**][sponsor] or just [**leave a star**](../..)⭐
+If you found this project helpful, consider [**buying me a coffee**][buymeacoffee]
 |Thanks for your support, it is much appreciated!|
 
 [cc]: https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-code-of-conduct-to-your-project
