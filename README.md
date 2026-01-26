@@ -3,10 +3,6 @@
 - IT & Cyber Security consultant
 - I talk about cybersec, gaming & tech
 
-<!-- buttons -->
-
-<!-- endbuttons -->
-
 I am sharing several [repositores](https://git.icc.gg/ivancarlos?tab=repositories) that support my work. I have relocated most of them to **Gitea** following a brief suspension of my GitHub account. While my profile has been restored, I no longer fully trust GitHub as a primary host.
 
 <!-- footer -->
