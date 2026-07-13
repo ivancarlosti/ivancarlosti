@@ -16,7 +16,7 @@
 [![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-2.1-4baaaa)](https://github.com/ivancarlosti/ivancarlosti?tab=coc-ov-file)
 <!-- endbuttons -->
 
-I am sharing several [repositores](https://git.icc.gg/ivancarlos?tab=repositories) that support my work.
+I am sharing several [repositores](https://github.com/ivancarlosti?tab=repositories) that support my work.
 
 <!-- footer -->
 ---
